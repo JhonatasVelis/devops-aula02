@@ -1,4 +1,5 @@
 # devops-aula02
 Jeniffer Lopez
-Ema Watson
+Bred Pitt
 Cleo Pires
+Angelina Jolie
